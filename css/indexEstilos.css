@@ -17,24 +17,24 @@ body{
     background-color: #f5f8fbde;
 }
 .encabezado{
-    width: 95%;
-    height: 30px;
+    height: 25px;
     margin: auto;
     padding: 10px;
-    background-color: #16446a;
+    width: 99%;
+    position: absolute;
+    background-color: transparent;
 }
 .celdaLogo{
     width: 45%;
-    height: 50px;
     text-align: right;
-    background-color: #16446a;
+    background-color: transparent;
 }
 .celdaTitulo{
     width: 60%;
     height: 50px;
     float: left;
     text-align: left;
-    background-color: #16446a;
+    background-color: transparent;
 }
 
 .listaIntegrantes{
@@ -63,7 +63,9 @@ td{
     font-size: 15px;
 }
 .piePagina{
-    width: 95%;
+    width: 99%;
+    position: absolute;
+    bottom: 0;
     height: 30px;
     margin: auto;
     margin-top: 15%;
