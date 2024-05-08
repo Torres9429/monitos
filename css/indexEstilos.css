@@ -56,6 +56,9 @@ td{
     text-align: center;
     font-size: 15px;
 }
+footer{
+    position: relative;
+}
 .piePagina{
     width: 95%;
     height: 30px;

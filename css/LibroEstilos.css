@@ -1,0 +1,52 @@
+body{
+    background-color: blanchedalmond;
+}
+header{
+    position: absolute;
+    text-align: center;
+    background-color: orange;
+    height: 65px;
+    top: 0;
+    width: 99%;
+}
+
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 0%;
+    color: white;
+}
+.tabla1{
+    background-color: rgb(247, 221, 183);
+    margin-top: 80px;
+}
+th{
+    width: 99px;
+    text-align: right;
+}
+td{
+    margin: auto;
+    text-align: justify;
+}
+.imgLibroPerNorm{
+    width: auto;
+    height: 300px;
+    margin-top: 2%;
+    position: relative;
+}
+.cont{
+    text-align: center;
+}
+footer{
+    background-color: orange;
+    height: 60px;
+    width: 99%;
+    position: absolute;
+    bottom: 0;
+}
+.footerTxt{
+    padding: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color: white;
+    
+}
